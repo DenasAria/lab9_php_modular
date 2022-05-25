@@ -108,4 +108,6 @@ Tampilan Home Page pada Browser yang menggunakan modular deader dan footer.
 
 ![8](https://user-images.githubusercontent.com/101621068/170319170-675c977a-5209-4547-bae1-a8a4f0d30aa5.png)
 
+![9](https://user-images.githubusercontent.com/101621068/170320626-a9bfc540-b989-4330-9a1f-1176732505c6.png)
+
 # TERIMAKASIH
